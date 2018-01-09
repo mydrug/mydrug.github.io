@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik');
 
+@font-face {
+    font-family: Distortion Dos Analogue; /* Имя шрифта */
+    src: url(fonts/Distortion Dos Analogue.otf); /* Путь к файлу со шрифтом */
+   }
+
   body{
     scroll-behavior: smooth;
     background-color: #fff;
