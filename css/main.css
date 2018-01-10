@@ -43,7 +43,9 @@ a:hover{
   padding-right: 1%;
   background: rgba(0, 0, 0, 0.7);
 }
-
+#gif{
+  width: 17%;
+}
 .header a{
   font-family: "Rubik";
   font-size: 15px;
@@ -106,6 +108,10 @@ font-size: 25px;
   background: url(https://pp.userapi.com/c840732/v840732104/36cc7/aYKPVFpw1Xs.jpg);
   background-size:cover;
   text-shadow: 0px 5px 10px rgba(158, 158, 158, 0.5);
+}
+
+.main img{
+  width: 40%;
 }
 
 .main a{
@@ -325,4 +331,7 @@ hr{
   font-family: "Distortion Dos Analogue";
   color: #fff;
 
+}
+.end img{
+  width: 30%;
 }
