@@ -35,6 +35,10 @@ a:hover{
 
 .header{
   position: sticky;
+  -ms-position: sticky;
+  -o-position: sticky;
+  -moz-position: sticky;
+  -webkit-position: sticky;
   top:0;
   z-index: 1;
   font-family: "Distortion Dos Analogue";
