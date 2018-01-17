@@ -34,11 +34,11 @@ a:hover{
 }
 
 .header{
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
   position: sticky;
-  -ms-position: sticky;
-  -o-position: sticky;
-  -moz-position: sticky;
-  -webkit-position: sticky;
   top:0;
   z-index: 1;
   font-family: "Distortion Dos Analogue";
